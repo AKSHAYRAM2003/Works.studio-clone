@@ -12,14 +12,22 @@ This project is a clone of the Works Studio website's user interface (UI), creat
 <!-- - **Responsive Design**: Ensures the website is responsive and works well on various devices and screen sizes through CSS media queries. -->
 
 ## Demo
-[Video Demo](./Assets/works%20studio.mp4) 
+
 [Live link](https://worksstudio-cloneproject.netlify.app/)
 
 ## Screenshots
-[Home-Page](./Assets/homepage.png)
-[Second-Page](./Assets/secondpage.png)
-[Third-Page](./Assets/3rd%20page.png)
-
+1.Home-Page
+<div align ="center">
+  <img src="Assets/homepage.png">
+</div>
+2.Second - page
+<div align ="center">
+  <img src="Assets/secondpage.png">
+</div>
+3.Third-page
+<div align ="center">
+  <img src="Assets/3rd page.png">
+</div>
 
 ## Installation
 
